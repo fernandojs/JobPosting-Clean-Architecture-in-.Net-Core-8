@@ -1,0 +1,6 @@
+@JobPosting.API_HostAddress = http://localhost:5103
+
+GET {{JobPosting.API_HostAddress}}/jobpost/
+Accept: application/json
+
+###
